@@ -1,0 +1,19 @@
+{
+  "name": "interview-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "execute": "node app.js",
+    "test:1": "node test-1.js",
+    "test:2": "node test-2.js",
+    "test:3": "node test-3.js"
+  },
+  "author": "benedict_kioko",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.3",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2"
+  }
+}
